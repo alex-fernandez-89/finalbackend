@@ -1,0 +1,11 @@
+contraseña 1
+FoD2nn*D8Szs2Oq!Fm5U
+
+
+base datos
+gabrielaarte22
+n?krsbPCZw12N0M$
+
+
+$conexion = mysqli_connect("localhost", "id19804595_gabrielaarte22", "n?krsbPCZw12N0M$");
+mysqli_select_db($conexion, "id19804595_gabrielaarte2022");
